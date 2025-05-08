@@ -2,8 +2,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L_Year.pdf)_, _[Year_Country](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L_Year_country.pdf)_ & _[Country](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L-By_Country.pdf)_
-
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L_Year.pdf)_& _[Year_Country](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L_Year_country.pdf)_ 
    **2.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/Aftab-Nadaf/Excel-Finance_Analytics/blob/main/P%26L_by_Month.pdf)_
 
    **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
